@@ -63,3 +63,8 @@ console.log(book.snapshot(5));
 
 - 2026-04-14: documented service readiness, implementation progress, and release hygiene for realtime-orderbook-engine.
 - Captured validation notes for observability, operational checks, and handoff readiness.
+
+## Update 12
+
+- 2025-01-01: added another progress checkpoint covering documentation, release readiness, and operational follow-up.
+- Kept the README as the single source of status updates for this repository.
