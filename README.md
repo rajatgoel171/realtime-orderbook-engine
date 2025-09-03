@@ -114,7 +114,7 @@ console.log(book.snapshot(5));
 - 2026-05-16: added another progress checkpoint covering documentation, release readiness, and operational follow-up.
 - Kept the README as the single source of status updates for this repository.
 
-## Repo Update 3
+## Repo Update 4
 
-- 2025-08-11: added a repository-specific progress checkpoint for documentation, validation, and operational readiness.
+- 2025-09-03: added a repository-specific progress checkpoint for documentation, validation, and operational readiness.
 - Captured repo-level work notes without reusing the same date schedule as the other repositories.
