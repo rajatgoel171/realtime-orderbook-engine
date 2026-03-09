@@ -59,7 +59,7 @@ console.log(book.snapshot(5));
 
 
 
-## Progress Note 7
+## Progress Note 8
 
-- 2026-02-25: documented service readiness, implementation progress, and release hygiene for realtime-orderbook-engine.
+- 2026-03-09: documented service readiness, implementation progress, and release hygiene for realtime-orderbook-engine.
 - Captured validation notes for observability, operational checks, and handoff readiness.
