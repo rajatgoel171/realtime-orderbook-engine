@@ -1,0 +1,13 @@
+{
+  "name": "realtime-orderbook-engine",
+  "version": "1.0.0",
+  "description": "In-memory price-time-priority order book engine with market data snapshots.",
+  "type": "module",
+  "scripts": {
+    "demo": "node src/demo.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
